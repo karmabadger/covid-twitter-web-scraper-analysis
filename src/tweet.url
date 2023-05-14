@@ -1,0 +1,1 @@
+https://api.twitter.com/2/tweets/search/recent?max_results=10&query=(covid%20OR%20vaccine%20OR%20AstraZeneca%20OR%20Janssen%20OR%20Moderna%20OR%20Pfizer%20OR%20BioNTech)%20lang%3Aen%20-is%3Aretweet&tweet.fields=author_id,created_at,entities,public_metrics,geo,context_annotations&user.fields=name,username,verified,public_metrics

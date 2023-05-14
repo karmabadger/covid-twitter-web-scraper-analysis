@@ -1,0 +1,1 @@
+python3 src/annotate.py -o wen.csv -i data/thousand_tweets.csv -s 675 -e 1001

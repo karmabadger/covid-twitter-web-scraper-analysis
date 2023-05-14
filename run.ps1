@@ -1,0 +1,1 @@
+python3 src/collect_tweets.py -o data/tweets.csv   # collect tweets
